@@ -32,7 +32,10 @@ Visual components and Python
 
 ## Program
 
-```
+
+    Lq1=Ls1-lam/mu1
+    Lq2=Ls2-lam/mu2
+    Lq3=Ls3-lam/mu3```
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
@@ -51,9 +54,6 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
     Ls2=lam/(mu2-lam)
     Ls3=lam/(mu3-lam)
     Ls=Ls1+Ls2+Ls3
-    Lq1=Ls1-lam/mu1
-    Lq2=Ls2-lam/mu2
-    Lq3=Ls3-lam/mu3
     Wq1=Lq1/lam
     Wq2=Lq2/lam
     Wq3=Lq3/lam
