@@ -20,9 +20,14 @@ Visual components and Python
 
 ## Experiment:
 
-![Uploading image.png…]()
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/16be72e6-e4e0-41f4-8617-ee6bee758a4f)
+
+
+
+![image](https://github.com/user-attachments/assets/d0e9caf5-11c8-45ac-86d4-800f344d2b2b)
+
+
 
 
 ## Program
